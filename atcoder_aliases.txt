@@ -1,0 +1,5 @@
+alias g11='g++ -std=c++11 -Wall -O2 -o'
+alias g14='g++ -std=c++14 -Wall -O2 -o'
+alias lcpp='ls *.cpp'
+alias lout='ls *.out'
+
